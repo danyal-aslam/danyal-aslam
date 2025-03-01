@@ -2,7 +2,7 @@
 
 I'm a passionate .NET Developer with 2.5 years of experience building scalable, efficient solutions using **C#** and the **.NET Framework**. I enjoy tackling backend challenges and continuously expanding my tech repertoire.
 
-### 🔭 Check out my [Portfolio](https://your-portfolio.com).
+### 🔭 Check out my [Portfolio](https://daniyal-aslam.web.app).
 
 ---
 
@@ -35,4 +35,4 @@ Here are some technologies I work with:
 
 ## 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin) || [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github) || [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danyal-aslam) || [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danyal-aslam) || [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge)](https://daniyal-aslam.web.app)
